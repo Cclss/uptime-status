@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'cc博客 Status',
 
   // 站点链接
   SiteUrl: '/',
@@ -25,11 +25,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://www.cclss.top/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/cclss/uptime-status'
     }
   ]
 };
